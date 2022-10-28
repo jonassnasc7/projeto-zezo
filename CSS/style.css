@@ -1,0 +1,22 @@
+.container{
+    background-color: #000;
+    width: 900px;
+}
+
+.nav{
+    background-color: #124fd1;
+    padding: 1rem;
+}
+.nav-link{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 1rem;
+}
+main{
+    color: #fff;
+}
+footer p{
+    color: #fff;
+    text-align-last: center;
+}
